@@ -50,7 +50,6 @@ Ensure the Andor driver is installed and the monochromator’s DLL is loaded pro
 1. Set up the environment using the provided configurations.
 2. Run the `Algorithms.ipynb` notebook to initialize the correction matrix algorithms.
 3. Use the `DataAnalysis.ipynb` notebook to process and validate the spectrometer data.
-4. Refer to the **StrayLight.pptx** presentation for additional details on the methodology and the project’s inspiration.
 
 ## References
 

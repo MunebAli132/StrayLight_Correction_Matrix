@@ -1,1 +1,1 @@
-# StrayLight_Correction_Matrix
+# Stray Light Correction Matrix

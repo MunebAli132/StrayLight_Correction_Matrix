@@ -60,8 +60,3 @@ Ensure the Andor driver is installed and the monochromator’s DLL is loaded pro
 - Zong, Y., Brown, S. W., Johnson, B. C., Lykke, K. R., & Ohno, Y. (2008). *Simple spectral stray light correction method for array spectroradiometers*. Journal of Atmospheric and Oceanic Technology, 26(1), 57-73.
 - Additional resources:
   - [Correction of Stray Light in Spectroradiometers and Imaging Instruments | NIST](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=841127)
-  - [Stray light correction on array spectroradiometers for optical radiation risk assessment in the workplace](https://hal.science)
-
----
-
-Let me know if you want any adjustments or additional sections in this README!

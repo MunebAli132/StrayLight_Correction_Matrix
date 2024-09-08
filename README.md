@@ -51,7 +51,7 @@ Ensure the Andor driver is installed and the monochromator’s DLL is loaded pro
 3. Use the `DataAnalysis.ipynb` notebook to process and validate the spectrometer data.
 
 ## Future work
-Future work requires investigating the spike that appears in the response of spectrometers which can be seen at the end of `DataAnalysis.ipynb`file . This spike is a function of used spectrometers only. This unexpected response of the He-Ne laser beam also. A complete description of the stary Light matrix requires the elimination of all types of unexpected responses. 
+Our future work will investigate the spike present in the spectrometer response, as observed at the end of the 'DataAnalysis.ipynb' file. It should be noted that this spike is specific to the spectrometers used. This unexpected response is also observed when using the He-Ne laser beam (632.8 nm). A comprehensive description of the starry light matrix will necessitate the elimination of all forms of unexpected responses.
 
 ## References
 

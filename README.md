@@ -14,9 +14,6 @@ Stray light in spectroradiometers leads to errors in the spectral data, and corr
 - **Algorithms.ipynb**: Contains the implementation of various correction algorithms and data analysis routines, including noise handling and correction matrix computations.
 - **DataAnalysis.ipynb**: Focuses on the data processing steps, including readout noise, dark noise, and the validation process for the corrected spectral data.
 
-### Presentations:
-- **StrayLight.pptx**: A presentation outlining the methodology, inspiration, and overall workflow of the project. It provides detailed steps for environment setup, data acquisition, and noise analysis.
-
 ## Workflow
 
 1. **Setting up the environment**:

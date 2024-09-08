@@ -1,0 +1,56 @@
+#------------------------------------------------------------------------------
+# Bentham Instruments system model attributes file
+# Created 09/08/2007 14:57:46
+# This file should NOT be edited by hand 10445
+#------------------------------------------------------------------------------
+
+monoTurret 1
+  grating,1 = 1800
+  minimum wavelength,1 = 200
+  maximum wavelength,1 = 800
+  zord,1 = 10445
+  alpha,1 =  1.00000000000000E+0000
+  grating,2 = 1200
+  minimum wavelength,2 = 300
+  maximum wavelength,2 = 1100
+  zord,2 = 176944
+  alpha,2 =  1.00000000000000E+0000
+  grating,3 = 830
+  minimum wavelength,3 = 650
+  maximum wavelength,3 = 1700  
+  zord,3 = 342854
+  alpha,3 =  1.00100000000000E+0000
+  settle time = 100
+end
+
+filter
+  settle time = 1000
+  position = 2
+  filter,1 =  0.00000000000000E+0000
+  filter,2 =  4.00000000000000E+0002
+  filter,3 =  7.00000000000000E+0002
+  filter,4 =  0.00000000000000E+0000
+  filter,5 =  0.00000000000000E+0000
+  filter,6 =  0.00000000000000E+0000
+  move at each wavelength = 1
+end
+
+sam
+  settle time = 0
+  initial state = 0
+  switch wavelength,1 =  0.00000000000000E+0000
+  state,1 = 0
+  settle time,1 = 1000
+  switch wavelength,2 =  3.00000000000000E+0002
+  state,2 = 1
+  settle time,2 = 0
+end
+
+
+~System
+  dispersion multiplier = 0.000
+  stop count = 1.000
+  dark I integration time = 5.000
+  225 277 input = 1
+  group = ,,,,,,,,,,mono,,
+end

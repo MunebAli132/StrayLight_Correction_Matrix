@@ -50,12 +50,12 @@ Ensure the Andor driver is installed and the monochromator’s DLL is loaded pro
 2. Run the `Algorithms.ipynb` notebook to initialize the correction matrix algorithms.
 3. Use the `DataAnalysis.ipynb` notebook to process and validate the spectrometer data.
 
+## Future work
+Future work requires investigating the spike that appears in the response of spectrometers which can be seen at the end of `DataAnalysis.ipynb`file . This spike is a function of used spectrometers only. This unexpected response of the He-Ne laser beam also. A complete description of the stary Light matrix requires the elimination of all types of unexpected responses. 
+
 ## References
 
 - Zong, Y., Brown, S. W., Johnson, B. C., Lykke, K. R., & Ohno, Y. (2008). *Simple spectral stray light correction method for array spectroradiometers*. Journal of Atmospheric and Oceanic Technology, 26(1), 57-73.
 - Additional resources:
   - [Correction of Stray Light in Spectroradiometers and Imaging Instruments | NIST](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=841127)
  
- ## Future work
-
- Future work requires investigating which can be seen at the end of `DataAnalysis.ipynb`file .

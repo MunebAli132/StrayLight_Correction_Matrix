@@ -73,4 +73,5 @@ Our future work will investigate the spike present in the spectrometer response,
 - Zong, Y., Brown, S. W., Johnson, B. C., Lykke, K. R., & Ohno, Y. (2008). *Simple spectral stray light correction method for array spectroradiometers*. Journal of Atmospheric and Oceanic Technology, 26(1), 57-73.
 - Additional resources:
   - [Correction of Stray Light in Spectroradiometers and Imaging Instruments | NIST](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=841127)
+  - [Stray Light Correction of the Marine Optical System](https://journals.ametsoc.org/view/journals/atot/26/1/2008jtecho597_1.xml)
  

@@ -52,6 +52,8 @@ Ensure the Andor driver is installed and the monochromator’s DLL is loaded pro
 
 ## Future work
 Our future work will investigate the spike present in the spectrometer response, as observed at the end of the 'DataAnalysis.ipynb' file. It should be noted that this spike is specific to the spectrometers used. This unexpected response is also observed when using the He-Ne laser beam (632.8 nm). A comprehensive description of the starry light matrix will necessitate the elimination of all forms of unexpected responses.
+![image](https://github.com/user-attachments/assets/d1a0854f-5496-4a13-82cb-4cbc6eefa381)
+
 
 ## References
 

@@ -31,7 +31,7 @@ Stray light in spectroradiometers leads to errors in the spectral data, and corr
    - Computation of the **Correction Matrix** for stray light using predefined algorithms.
    - Analysis of the signal components including light, dark noise, and stray light.
    - Validation of the correction matrix with ongoing improvements.
-## Visuals From data analysis 
+## Visual Representation of Key Findings
 
  ![image](https://github.com/user-attachments/assets/3d6053f1-b3e6-43ad-b4f7-952c59397d65)
 ![image](https://github.com/user-attachments/assets/5040398f-7139-4351-ad6b-f513b0d57a56)

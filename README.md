@@ -37,7 +37,8 @@ Stray light in spectroradiometers leads to errors in the spectral data, and corr
 ![image](https://github.com/user-attachments/assets/5040398f-7139-4351-ad6b-f513b0d57a56)
 ![image](https://github.com/user-attachments/assets/cbc93c67-9467-4ead-b427-2c34f9ec6c66)
 ![image](https://github.com/user-attachments/assets/67b44ac7-7cad-461b-8dbf-b41f73f8da83)
-![image](https://github.com/user-attachments/assets/60a0cd87-ef7e-4941-a10d-11ac8b9374fb)
+![image](https://github.com/user-attachments/assets/67643a0b-4fb1-45cc-999b-0763e59f88fc)
+
 
 
 
